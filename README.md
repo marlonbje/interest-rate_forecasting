@@ -479,7 +479,7 @@ SOFTWARE.
 ## 📧 Contact
 
 For questions or feedback:
-- 📧 Email: your.email@example.com
+- 📧 Email: marlonbj@outlook.de
 - 🐙 GitHub: [marlonbje](https://github.com/marlonbje)
 - 💼 LinkedIn: [Marlon Elias Braje](https://www.linkedin.com/in/marlon-elias-braje-5534b8344)
 
